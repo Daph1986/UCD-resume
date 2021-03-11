@@ -1,4 +1,4 @@
-# Love Running
+# UCD resume
 
 **User Centric Frontend Development assignment**
 
